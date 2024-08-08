@@ -2,7 +2,7 @@
 using Fina.Core.Requests.Categories;
 using Fina.Core.Responses;
 
-namespace Fina.Core.Handler
+namespace Fina.Core.Handlers
 {
     public interface ICategoryHandler
     {
